@@ -1,0 +1,18 @@
+#avengers{
+    width: 320px;
+    height: 250px;
+    color:red;
+}
+body{
+    text-align: center;
+    background-color: aqua;
+
+#trans{
+    height: 261px;
+    width: 614px;
+}
+
+
+html{
+    scroll-behavior: smooth;
+}
